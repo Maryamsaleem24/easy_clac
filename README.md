@@ -1,5 +1,8 @@
 # Easy Calc
 
+![image](https://github.com/user-attachments/assets/4ad8ab25-6914-4939-b316-0e981219cdcc)
+
+
 Easy Calc is a simple calculator application built using Flutter.
 
 ## Prerequisites
