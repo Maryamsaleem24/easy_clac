@@ -1,16 +1,28 @@
-# easy_calc
+# Easy Calc
 
-A new Flutter project.
+Easy Calc is a simple calculator application built using Flutter.
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- Flutter SDK installed on your machine. [Install Flutter](https://flutter.dev/docs/get-started/install)
+- Android Studio or Xcode (for iOS development).
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### 1. Clone the Repository
 
-A few resources to get you started if this is your first Flutter project:
+Clone the repository to your local machine:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+git clone https://github.com/your-username/easy-calc.git
+cd easy-calc 
+
+2 - Install Dependencies : Run the following command to install the required dependencies
+
+  flutter pub get
+
+3. Run the Application : You can run the application on an emulator or a physical device
+
+  flutter run
